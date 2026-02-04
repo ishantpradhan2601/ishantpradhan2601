@@ -1,19 +1,65 @@
-# 💫 About Me:
-I’m currently working on:<br>A real-time chat application using MERN Stack (MongoDB, Express, React, Node.js)<br>Implementing Socket.IO for live messaging<br>User authentication using JWT
+# 💫 Ishant Pradhan
 
-<p align="center"><img src="https://64.media.tumblr.com/ba13aa0a583a3ef6ef921edfdf18581d/25ca5b3241e8cc11-06/s640x960/e3d28766b004c0d6122f28c030cf3db5ac37ec93.gifv"  align="center">
+🚀 MERN Stack Developer | Real-Time Applications | Problem Solver  
 
+I’m a passionate full-stack developer focused on building **scalable, real-time web applications** using modern JavaScript technologies. I enjoy turning ideas into production-ready products and continuously improving my backend + frontend skills.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishantpradhan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishantpradhan2601@gmail.com) 
+<p align="center">
+  <img src="https://64.media.tumblr.com/ba13aa0a583a3ef6ef921edfdf18581d/25ca5b3241e8cc11-06/s640x960/e3d28766b004c0d6122f28c030cf3db5ac37ec93.gifv" width="400"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+---
 
-### 🔝 Top Contributed Repo
+## 🔭 Currently Working On
+- 💬 Real-time Chat Application (MERN Stack)
+- ⚡ Live messaging with **Socket.IO**
+- 🔐 Secure authentication using **JWT**
+- 🌐 Deployment using **Render & Vercel**
+
+---
+
+## 🧩 Featured Projects
+### 🟢 Varta – Real-Time Chat Application
+- MERN Stack + Socket.IO
+- JWT Authentication
+- One-to-one real-time messaging
+- Online/offline user status
+
+🔗 *Repo & demo coming soon*
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishantpradhan/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishantpradhan2601@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
+![Redux](https://img.shields.io/badge/Redux-593d88?logo=redux)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404d59?logo=express)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-black?logo=json-web-tokens)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05033?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github)
+
+---
+
+## 📊 GitHub Stats
 ![](https://github-contributor-stats.vercel.app/api?username=ishantpradhan2601&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishantpradhan2601&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=ishantpradhan2601&icon=0&color=0)
