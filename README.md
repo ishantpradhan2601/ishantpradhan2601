@@ -4,10 +4,6 @@ I’m currently working on:
 - Implementing Socket.IO for live messaging  
 - User authentication using JWT  
 
-<p align="center">
-  <img src="https://www.tumblr.com/daniel-bruehl/700103834409877504/requested-by-anonymous-simon-ghost-riley-gif" align="center">
-</p>
-
 ---
 
 ## 🌐 Socials:
