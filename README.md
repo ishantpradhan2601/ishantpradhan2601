@@ -1,6 +1,8 @@
 # 💫 About Me:
 I’m currently working on:<br>A real-time chat application using MERN Stack (MongoDB, Express, React, Node.js)<br>Implementing Socket.IO for live messaging<br>User authentication using JWT
 
+<p align="center"><img src="https://64.media.tumblr.com/ba13aa0a583a3ef6ef921edfdf18581d/25ca5b3241e8cc11-06/s640x960/e3d28766b004c0d6122f28c030cf3db5ac37ec93.gifv"  align="center">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishantpradhan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishantpradhan2601@gmail.com) 
